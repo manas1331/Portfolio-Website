@@ -54,7 +54,7 @@ pg = st.navigation(
 
 
 # --- SHARED ON ALL PAGES ---
-st.logo("Pictures\Logo.png")
+st.logo("Pictures/Logo.png")
 # icon_image="©️",
 # )
 
