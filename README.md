@@ -1,3 +1,8 @@
+## View the live website 
+Click the link to view the website 
+[https://stock-price-predictor-using-ml.onrender.com/](https://portfolio-website-2jzo.onrender.com/)
+
+
 # My Portfolio Website
 
 Welcome to my portfolio website, a comprehensive showcase of my projects, skills, and professional journey. This site is built using **Streamlit**, offering an interactive and user-friendly experience. Explore the various sections to learn more about my work and how to get in touch.
@@ -22,9 +27,9 @@ The Chatbot section features a custom-built chatbot developed using Streamlit. T
 
 The Projects section showcases my work, including both personal and professional projects. Each project is displayed with a brief description, a screenshot, and a link to its GitHub repository. This section is designed to highlight my technical skills and the diverse range of projects I've worked on.
 
-## 🤝 Contribution
 
-I welcome contributions to this project! If you have suggestions for improvements or want to add new features, feel free to fork the repository and create a pull request. Please ensure that your contributions align with the goals of the portfolio and maintain the coding standards outlined in the repository.
+## 🤝 Contribution
+Feel free to contribute to this project by submitting issues, feature requests, or pull requests. Please adhere to the project's coding standards and include tests for any new features.Please ensure that your contributions align with the goals of the portfolio and maintain the coding standards outlined in the repository.
 
 ### How to Contribute
 
@@ -48,27 +53,32 @@ To run this project locally, you'll need:
 - Streamlit
 - Other dependencies listed in the `requirements.txt` file
 
-### Installation
+## Installation
 
-1. Clone the repository: `git clone https://github.com/your-github-username/portfolio-website.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `pip install -r requirements.txt`
-4. Run the Streamlit app: `streamlit run app.py`
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-github-username/portfolio-website.git
+   cd portfolio-website
+
+2. **Install Dependencies**:
+    ```bash
+   pip install -r requirements.txt
+
+4. **Setup and Configuration**:
+
+- Configure any necessary API keys or environment variables.
+- Adjust any settings for data sources and model parameters.
+
+ 4. **Run the Web Application**:
+    ```bash
+    streamlit run streamlit_app.py
+
+ 5. **Usage**:
+- Navigate to  http://localhost:5000 (or the specified port) to access the web application.
+- Input stock ticker symbols and view predictions and visualizations.
+
 
 ## 💬 Feedback
 
 Your feedback is valuable! If you have any suggestions, feature requests, or bug reports, please open an issue on GitHub or contact me directly through the Contact section.
 
----
-
-Thank you for visiting my portfolio! If you have any questions or would like to discuss potential opportunities, feel free to reach out through the Contact section.
-
-### 🔗 Links
-
-- [View Portfolio Website](https://your-portfolio-link.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [GitHub](https://github.com/your-github-username)
-
----
-
-**Built with [Streamlit](https://streamlit.io/).**
