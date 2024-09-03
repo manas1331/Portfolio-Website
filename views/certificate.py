@@ -11,7 +11,7 @@ st.title("My Certificates")
 
 
 images = [
-    "Pictures\CIDECODE Certificate.png",
+    "Pictures/CIDECODE Certificate.png",
     "Pictures/Corporate Simulation.jpg",
     "Pictures/Data Science(Intrn Forte) Certificate.jpg","Pictures/GoldmanSachs_Certificate.png","Pictures/Python course certificate great learning.png","Pictures/Hacker_rank_problem_solving_basic certificate.png","Pictures/Hacker_Rank_problem_solving_intermediate certificate.png",
     "Pictures/Investment Banking Course Certificate.png","Pictures/Hacker_rank_python_basic certificate.png","Pictures/JP Morgan Cybersecurity course.png",
