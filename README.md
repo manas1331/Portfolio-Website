@@ -55,7 +55,7 @@ To run this project locally, you'll need:
 - Streamlit
 - Other dependencies listed in the `requirements.txt` file
 
-## Installation
+## 📥 Installation
 
 1. **Clone the Repository**:
    ```bash
