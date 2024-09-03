@@ -70,4 +70,16 @@ display_project(
     "https://github.com/manas1331/FTP-Server-with-SSL-Implementation"
 )
 
+# Project 4
+display_project(
+    "Project 4: Portfolio-Website",
+    """
+- This is my portfolio website built using streamlit(python framework) with home, about & contact,resume,chatbot and projects sections.
+- This site offers an interactive and user-friendly experience.
+ - Tools & Technologies used: Python ,Streamlit
+    """,
+    "Pictures/portfolio.png",
+    "https://github.com/manas1331/Portfolio-Website"
+)
+
 # Continue adding projects in the same format as above
