@@ -7,7 +7,7 @@ Welcome to my portfolio website, a comprehensive showcase of my projects, skills
 
 ## View the live website 
 Click the link to view the website 
-[https://stock-price-predictor-using-ml.onrender.com/](https://portfolio-website-2jzo.onrender.com/)
+[(https://portfolio-website-2jzo.onrender.com/)](https://portfolio-website-2jzo.onrender.com/)
 
 ## 🏠 Home
 
