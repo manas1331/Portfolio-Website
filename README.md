@@ -1,11 +1,13 @@
-## View the live website 
-Click the link to view the website 
-[https://stock-price-predictor-using-ml.onrender.com/](https://portfolio-website-2jzo.onrender.com/)
+
 
 
 # My Portfolio Website
 
 Welcome to my portfolio website, a comprehensive showcase of my projects, skills, and professional journey. This site is built using **Streamlit**, offering an interactive and user-friendly experience. Explore the various sections to learn more about my work and how to get in touch.
+
+## View the live website 
+Click the link to view the website 
+[https://stock-price-predictor-using-ml.onrender.com/](https://portfolio-website-2jzo.onrender.com/)
 
 ## 🏠 Home
 
