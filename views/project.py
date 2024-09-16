@@ -78,7 +78,7 @@ display_project(
 - This site offers an interactive and user-friendly experience.
  - Tools & Technologies used: Python ,Streamlit
     """,
-    "Pictures/portfolio.png",
+    "Pictures/car_price.png",
     "https://github.com/manas1331/Car-Price-Predictor"
 )
 
