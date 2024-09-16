@@ -72,7 +72,20 @@ display_project(
 
 # Project 4
 display_project(
-    "Project 4: Portfolio-Website",
+    "Project 4: Car Price Predictor using ML",
+    """
+- This is a Car Price predictor using Machine Learning with an interactive UI built using streamlit(python framework).
+- This site offers an interactive and user-friendly experience.
+ - Tools & Technologies used: Python ,Streamlit
+    """,
+    "Pictures/portfolio.png",
+    "https://github.com/manas1331/Car-Price-Predictor"
+)
+
+
+# Project 5
+display_project(
+    "Project 5: Portfolio-Website",
     """
 - This is my portfolio website built using streamlit(python framework) with home, about & contact,resume,chatbot and projects sections.
 - This site offers an interactive and user-friendly experience.
