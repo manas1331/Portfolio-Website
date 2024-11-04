@@ -16,7 +16,7 @@ images = [
     "Pictures/Data Science(Intrn Forte) Certificate.jpg","Pictures/GoldmanSachs_Certificate.png","Pictures/Python course certificate great learning.png","Pictures/Hacker_rank_problem_solving_basic certificate.png","Pictures/Hacker_Rank_problem_solving_intermediate certificate.png",
     "Pictures/Investment Banking Course Certificate.png","Pictures/Hacker_rank_python_basic certificate.png","Pictures/JP Morgan Cybersecurity course.png",
     "Pictures/Weal Hackathon Certificate.png","Pictures/Workshop Web Extension Certificate.png","Pictures/Workshop Chat GPT Certificate.png","Pictures/Stocks Course Certificate.png",
-    "Pictures/GO certificate.png","Pictures/Rust certificate.png","Pictures/UX certificate.png","Pictures/manas1dering-C++ for problem solving - 1-1.png","Pictures/manas1dering-Learn C 1- Pro-1.png"
+    "Pictures/GO certificate.png","Pictures/Rust certificate.png","Pictures/UX certificate.png","Pictures/manas1dering-C++ for problem solving - 1-1.png"
     ,"Pictures/manas1dering-Learn C1 - Pro-1.png","Pictures/manas1dering-Learn HTML _ CSS-1.png","Pictures/manas1dering-Learn Java-1.png","Pictures/manas1dering-Learn SQL-1.png",
     "Pictures/Python_course_certificate-1.png","Pictures/UX certificate.png","Pictures/Weal Hackathon Certificate-1"
 ]
