@@ -18,7 +18,7 @@ images = [
     "Pictures/Weal Hackathon Certificate.png","Pictures/Workshop Web Extension Certificate.png","Pictures/Workshop Chat GPT Certificate.png","Pictures/Stocks Course Certificate.png",
     "Pictures/GO certificate.png","Pictures/Rust certificate.png","Pictures/UX certificate.png","Pictures/manas1dering-C++ for problem solving - 1-1.png"
     ,"Pictures/manas1dering-Learn HTML _ CSS-1.png","Pictures/manas1dering-Learn Java-1.png","Pictures/manas1dering-Learn SQL-1.png",
-    "Pictures/Python_course_certificate-1.png","Pictures/UX certificate.png","Pictures/Weal Hackathon Certificate-1"
+    "Pictures/Python_course_certificate-1.png","Pictures/UX certificate.png","Pictures/Weal Hackathon Certificate.png"
 ]
 
 
