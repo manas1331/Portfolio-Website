@@ -7,7 +7,7 @@ Welcome to my portfolio website, a comprehensive showcase of my projects, skills
 
 ## View the live website 
 Click the link to view the website 
-[(https://portfolio-website-2jzo.onrender.com/)](https://portfolio-website-2jzo.onrender.com/)
+[(Website Link)](https://portfolio-website-akfenzweo2yw3d5gkfj7lu.streamlit.app/)
 
 ## 🏠 Home
 
