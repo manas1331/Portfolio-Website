@@ -7,7 +7,7 @@ Welcome to my portfolio website, a comprehensive showcase of my projects, skills
 
 ## View the live website 
 Click the link to view the website 
-[(Website Link)](https://portfolio-website-akfenzweo2yw3d5gkfj7lu.streamlit.app/)
+[(Website Link)](https://portfolio-website-27ajht7cmlkn56ypkf4pca.streamlit.app/)
 
 ## 🏠 Home
 
