@@ -11,7 +11,7 @@ st.title("More About Myself")
 # --- HERO SECTION ---
 col1, col2 = st.columns([1, 3], gap="small")
 with col1:
-    st.image("Pictures/Profile_pic.png", width=240)
+    st.image("Pictures/Profile_pic.png", width=140)
 
 with col2:
     st.title("Manas R", anchor=False)
