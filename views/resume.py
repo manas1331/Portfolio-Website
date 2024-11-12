@@ -16,7 +16,7 @@ with col1:
 with col2:
     st.title("Manas R", anchor=False)
     st.write(
-        "|| CSE Pre-Final year Student at PES University | Research Intern at ISFCR(Cybersecurity) | Member at Research Et Al | Samarpana | CMS | Core member at QQC | Kannada Koota ||"
+        "|| CSE Pre-Final year Student at PES University | Research Intern at ISFCR(Cybersecurity) | Member at Research Et Al | Samarpana | CMS | Weal | Core member at QQC | Kannada Koota ||"
     )
     # Uncomment the following code to add a Contact Me button
     # if st.button("✉️ Contact Me"):
@@ -71,6 +71,7 @@ st.write(
     - Design Team (Core), Kannada Koota club (Kannada Rajyotsva-2023)
     - Logistics Team, Samarpana club (Samarpana Run-2023)
     - Operations Team, CMS Club (Green Carnival)
+    - Web Development Member at Weal (HEalth Tech Club)
     """
 )
 
