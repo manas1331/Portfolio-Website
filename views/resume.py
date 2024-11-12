@@ -79,6 +79,6 @@ st.write(
 with st.expander("##### **Resume Link**"):
     st.write("Click the link below to view my resume:")
     st.markdown(
-        '<a href="https://drive.google.com/file/d/1g6QPJrjUPHyAQx9TojSrXPP-0FT_geHA/view?usp=drive_link" target="_blank">**View Resume**</a>',
+        '<a href="https://drive.google.com/file/d/1sqq0hb1Xtawafc_kVeExWiXrCIA-lQG3/view?usp=sharing" target="_blank">**View Resume**</a>',
         unsafe_allow_html=True
     )
