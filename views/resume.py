@@ -1,5 +1,5 @@
 import streamlit as st
-from forms.contact import contact_form
+# from forms.contact import contact_form
 
 st.title("More About Myself")
 
