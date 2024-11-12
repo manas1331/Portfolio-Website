@@ -71,7 +71,7 @@ st.write(
     - Design Team (Core), Kannada Koota club (Kannada Rajyotsva-2023)
     - Logistics Team, Samarpana club (Samarpana Run-2023)
     - Operations Team, CMS Club (Green Carnival)
-    - Web Development Member at Weal (HEalth Tech Club)
+    - Web Development Member at Weal (Health Tech Club)
     """
 )
 
